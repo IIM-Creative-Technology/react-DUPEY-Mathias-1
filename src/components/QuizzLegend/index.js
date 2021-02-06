@@ -6,366 +6,366 @@ export const QuizzLegend = [
             debutant: [
                 {
                     id: 0,
-                    question: "De quelle équipe fait partie Iceman?",
+                    question: "Lequel de ces pokémons est un starter ?",
                     options: [
-                        "The X-Men",
-                        "The Fantastic Four",
-                        "The Invaders",
-                        "The Liberators"
+                        "Réptincelle",
+                        "Dialga",
+                        "Mustebouet",
+                        "Tiplouf"
                     ],
-                    answer: "The X-Men",
+                    answer: "Tiplouf",
                     heroId: 1009362
                 },
                 {
                     id: 1,
-                    question: "Dans les X-Men, quelle substance constitue le squelette de Wolverine ?",
+                    question: "Quel est le type de dracaufeu ?",
                     options: [
-                        "Cavorite",
-                        "Vibranium",
-                        "Adamantium",
-                        "Neutronium"
+                        "Dragon",
+                        "Combat",
+                        "Vol",
+                        "Plante"
                     ],
-                    answer: "Adamantium",
+                    answer: "Vol",
                     heroId: 1009718
                 },
                 {
                     id: 2,
-                    question: "Quel est le nom de Spider-Man, apparu pour la première fois en 1962 ?",
+                    question: "Quelle est la ville d'origine de Sacha ?",
                     options: [
-                        "Tom Parker",
-                        "John Parker",
-                        "Peter Parker",
-                        "Alan Parker"
+                        "Aulnay sous bois",
+                        "Miami",
+                        "St Rock les courgettes",
+                        "Bourg Palette"
                     ],
-                    answer: "Peter Parker",
+                    answer: "Bourg Palette",
                     heroId: 1009610
                 },
                 {
                     id: 3,
-                    question: "Comment s'appelait Wolverine quand il était cavalier d'Apocalypse?",
+                    question: "Quelle est la mascote de Pokémon ?",
                     options: [
-                        "Rage",
-                        "Death",
-                        "Destruction",
-                        "Oblivion"
+                        "Rondoudou",
+                        "Psykocouak",
+                        "Pikachu",
+                        "Ronflex"
                     ],
                     answer: "Death",
                     heroId: 1009718
                 },
                 {
                     id: 4,
-                    question: "Quel super-héros ne se sépare jamais de son marteau forgé par les nains ?",
+                    question: "Quelle est la première amie de Sacha spécialisée de type Eau ?",
                     options: [
-                        "Bizarro",
-                        "Flash",
-                        "Venom",
-                        "Thor"
+                        "Ragnar Lothbrock",
+                        "Ondine",
+                        "Billy Womb Baker aka L'impulsif",
+                        "Dark Vador"
                     ],
-                    answer: "Thor",
+                    answer: "Ondine",
                     heroId: 1009664
                 },
                 {
                     id: 5,
-                    question: "Quelle couleur est associée à Hulk ?",
+                    question: "Quelle couleur représente le type fée ?",
                     options: [
-                        "Le jaune",
-                        "Le rouge",
-                        "Le vert",
+                        "Le mauve",
+                        "Le rose",
+                        "Le gris",
                         "Le bleu"
                     ],
-                    answer: "Le vert",
+                    answer: "Le rose",
                     heroId: 1009351
                 },
                 {
                     id: 6,
-                    question: "Quel super-héros ressemble à un être de pierre ?",
+                    question: "Quel est le pokémon phare de Pierre ?",
                     options: [
-                        "Plastic Man",
-                        "The Thing",
-                        "Hawkman",
-                        "Superboy"
+                        "Onyx",
+                        "Salamèche",
+                        "Racaillou",
+                        "Pingoléon"
                     ],
-                    answer: "The Thing",
+                    answer: "Pingoléon",
                     heroId: 1009662
                 },
                 {
                     id: 7,
-                    question: "De qui Edwin Jarvis est-il le majordome?",
+                    question: "Quelle est la faiblesse du type Eau ?",
                     options: [
-                        "Bruce Wayne",
-                        "Charles Xavier",
-                        "Tony Stark",
-                        "Henry Steven"
+                        "Ténèbres",
+                        "Terre",
+                        "Électrique",
+                        "Psy"
                     ],
-                    answer: "Tony Stark",
+                    answer: "Électrique",
                     heroId: 1009368
                 },
                 {
                     id: 8,
-                    question: "Quel super-héros porte un costume inspiré du drapeau américain ?",
+                    question: "Que mange les pokémons ?",
                     options: [
-                        "Tigra",
-                        "Blade",
-                        "Iron Man",
-                        "Captain America"
+                        "Des croquettes",
+                        "Des grecs",
+                        "Des pizzas ananas",
+                        "D'autres pokémons"
                     ],
-                    answer: "Captain America",
+                    answer: "Des croquettes",
                     heroId: 1009220
                 },
                 {
                     id: 9,
-                    question: "Y compris ses pouces, combien de doigts sur les deux mains possède The Thing?",
+                    question: "Combien y'at-il de starter par générations ?",
                     options: [
-                        8,
-                        6,
-                        10,
-                        4
+                        1,
+                        2,
+                        3,
+                        69
                     ],
-                    answer: 8,
+                    answer: 3,
                     heroId: 1009662
                 }
             ],
             "confirme": [
                 {
                     id: 0,
-                    question: "Qui est Logan dans la bande dessinée de Marvel Comics 'X-Men' ?",
+                    question: "Quel évènement signe la fin d'un combat ?",
                     options: [
-                        "Cyclope",
-                        "Colossus",
-                        "Wolverine",
-                        "Caliban"
+                        "La mort d'un pokemon",
+                        "La mort d'un des dresseurs",
+                        "Un K.O",
+                        "Un vote"
                     ],
-                    answer: "Wolverine",
+                    answer: "Un K.O",
                     heroId: 1009718
                 },
                 {
                     id: 1,
-                    question: "Quel super héros est intéressé par Sue Storm?",
+                    question: "Quel est le créateur de tous le pokémons ?",
                     options: [
-                        "X-Men",
-                        "Illuminati",
-                        "Spider-Man",
-                        "Namor"
+                        "Dialga",
+                        "Palkia",
+                        "Giratina",
+                        "Arceus"
                     ],
-                    answer: "Namor",
+                    answer: "Arceus",
                     heroId: 1009466
                 },
                 {
                     id: 2,
-                    question: "Quel humain devient surpuissant grâce à une armure de haute technologie ?",
+                    question: "Quel est le pokémon originel ?",
                     options: [
-                        "Cyclope",
-                        "Iron Man",
-                        "Wolverine",
-                        "Thor"
+                        "Deoxys",
+                        "Mew",
+                        "Darkrai",
+                        "Pichu"
                     ],
-                    answer: "Iron Man",
+                    answer: "Mew",
                     heroId: 1009368
                 },
                 {
                     id: 3,
-                    question: "Laquelle de ces propositions désigne un ennemi emblématique de Spider-Man ?",
+                    question: "Quelle bande de mercenaires est obsédée par le Pikachu de Sacha ?",
                     options: [
-                        "Lizard",
-                        "Thanos",
-                        "Void",
-                        "Green Goblin"
+                        "Rocket",
+                        "Galaxy",
+                        "Sexion d'assaut",
+                        "Les Avengers"
                     ],
-                    answer: "Green Goblin",
+                    answer: "Rocket",
                     heroId: 1014985
                 },
                 {
                     id: 4,
-                    question: "GHOST RIDER est connu comme étant",
+                    question: "Laquelle n'est pas une pokeball ?",
                     options: [
-                        "Le diable motard",
-                        "L'esprit de la haine",
-                        "L'esprit de vengeance",
-                        "Le crâne rouge"
+                        "MasterBall",
+                        "PokeBall",
+                        "HyperBall",
+                        "Lance roquette RPG-7 v2 chargée avec tête creuseBall"
                     ],
-                    answer: "L'esprit de vengeance",
+                    answer: "Lance roquette RPG-7 v2 chargée avec tête creuseBall",
                     heroId: 1009318
                 },
                 {
                     id: 5,
-                    question: "Avant de devenir Radioactive Man, Chen Lu était ..",
+                    question: "Lequel n'est pas un badge ?",
                     options: [
-                        "Un espion",
-                        "Un physicien nucléaire",
-                        "Un soldat",
-                        "Un pilote"
+                        "Badge Feu",
+                        "Cartouche de Marboro Light Red",
+                        "Badge Eau",
+                        "Badge Insecte"
                     ],
-                    answer: "Un physicien nucléaire",
+                    answer: "Cartouche de Marboro Light Red",
                     heroId: 1009526
                 },
                 {
                     id: 6,
-                    question: "Quel super-héros ayant perdu la vue possède des organes sensoriels développés ?",
+                    question: "Quel Pokémon a déjà tué Sacha ?",
                     options: [
-                        "Daredevil",
-                        "Flash",
-                        "Superman",
-                        "Captain America"
+                        "Pikachu",
+                        "MewTwo",
+                        "Giratina",
+                        "Darkrai"
                     ],
-                    answer: "Daredevil",
+                    answer: "MewTwo",
                     heroId: 1009262
                 },
                 {
                     id: 7,
-                    question: "Avant de se tourner vers une vie de crime, Mysterio était...",
+                    question: "Quel est le pokémon phare de Ondine ?",
                     options: [
-                        "Cascadeur",
-                        "Artiste d'effets spéciaux",
-                        "Magicien",
-                        "Sapeur pompier"
+                        "Stari",
+                        "Staro",
+                        "Carapuce",
+                        "Rattatta"
                     ],
-                    answer: "Artiste d'effets spéciaux",
+                    answer: "Stari",
                     heroId: 1010952
                 },
                 {
                     id: 8,
-                    question: "Fin Fang Foom est un alien de ..",
+                    question: "Lequel de ces Pokémon n'a pas créé la Terre",
                     options: [
-                        "Krypton",
-                        "Maklu IV",
-                        "Mars",
-                        "Vulcan"
+                        "Groudon",
+                        "Rayquaza",
+                        "Kyogre",
+                        "Mew"
                     ],
-                    answer: "Maklu IV",
+                    answer: "Mew",
                     heroId: 1009303
                 },
                 {
                     id: 9,
-                    question: "DOCTOR DOOM a fréquenté le même collège que...",
+                    question: "Mewtwo est à l'origine ...",
                     options: [
-                        "Tony Stark",
-                        "Peter Parker",
-                        "Reed Richards",
-                        "Bruce Banner"
+                        "Un pokémon sauvage",
+                        "Un etre humain",
+                        "Une Comète",
+                        "Une arme"
                     ],
-                    answer: "Reed Richards",
+                    answer: "Une arme",
                     heroId: 1009281
                 }
             ],
             "expert": [
                 {
                     id: 0,
-                    question: "Quand elle a travaillé pour Hydra, la première mission de Spider-Woman était de...",
+                    question: "Quel pokémon peut apprendre danse lame ?",
                     options: [
-                        "Séduire Iron-Man",
-                        "Séduire Spider-Man",
-                        "Tuer The Black Widow",
-                        "Tuer Nick Fury"
+                        "Carchacrok",
+                        "Raichu",
+                        "Tortank",
+                        "Magbi"
                     ],
-                    answer: "Tuer Nick Fury",
+                    answer: "Carchacrok",
                     heroId: 1009608
                 },
                 {
                     id: 1,
-                    question: "Quel super-héros créé par Marvel Comics est aveugle de naissance ?",
+                    question: "Quel est le plus gros pokémon ?",
                     options: [
-                        "Flash",
-                        "Thor",
-                        "Cyclope",
-                        "Stick"
+                        "Kyogre",
+                        "Wailord",
+                        "Ronflex",
+                        "Coconfort"
                     ],
-                    answer: "Stick",
+                    answer: "Wailord",
                     heroId: 1009626
                 },
                 {
                     id: 2,
-                    question: "Spider-Man a été sollicité pour créer la Spider-Mobile par la société de publicité de ...",
+                    question: "Quel pokémon à uune affinité Ténèbre/Roche ?",
                     options: [
-                        "Carter Lombardo",
-                        "Max Shrek",
-                        "Reed Richards",
-                        "Spider Company"
+                        "Grolem",
+                        "Lucario",
+                        "Tyrannocif",
+                        "Nekfeu"
                     ],
-                    answer: "Carter Lombardo",
+                    answer: "Tyrannocif",
                     heroId: 1009610
                 },
                 {
                     id: 3,
-                    question: "Quelle héroïne de Daredevil est une tueuse professionnelle ?",
+                    question: "Quel professeur a initié Sacha ?",
                     options: [
-                        "Ultron",
-                        "Catwoman",
-                        "Elektra",
-                        "Wonder Woman"
+                        "Wasabi",
+                        "Chen",
+                        "Rock",
+                        "Raoul"
                     ],
-                    answer: "Elektra",
+                    answer: "Chen",
                     heroId: 1009288
                 },
                 {
                     id: 4,
-                    question: "Où réside Mandarin devenu récemment le patron du Sin-Cong Wong Chu?",
+                    question: "Quel est le nom de la mascotte de la team rocket ?",
                     options: [
-                        "The Valley of Spirits",
-                        "The Mountains of Asgard",
-                        "The Canyons of Atlantis",
-                        "The Cave of Souls"
+                        "Smogogo",
+                        "Chaglam",
+                        "Persian",
+                        "Miaouss"
                     ],
-                    answer: "The Valley of Spirits",
+                    answer: "Miaouss",
                     heroId: 1009421
                 },
                 {
                     id: 5,
-                    question: "Quel super-héros possède les mêmes pouvoirs que Spider-Man ?",
+                    question: "Quel est le type de Noadkoko Alola ?",
                     options: [
-                        "Venom",
-                        "Green Arrow",
-                        "Blade",
-                        "Bizarro"
+                        "Dragon",
+                        "Insecte",
+                        "Roche",
+                        "Feu"
                     ],
-                    answer: "Venom",
+                    answer: "Dragon",
                     heroId: 1010788
                 },
                 {
                     id: 6,
-                    question: "Nick Fury a un frère devenu méchant. Quel est son nom?",
+                    question: "Quel pokémon est à l'origine des lacs de Sinnoh",
                     options: [
-                        "Venom",
-                        "Viper",
-                        "The Red Skull",
-                        "Scorpio"
+                        "Crefadet",
+                        "Mew",
+                        "Kyogre",
+                        "Typhlosion"
                     ],
-                    answer: "Scorpio",
+                    answer: "Crefadet",
                     heroId: 1011007
                 },
                 {
                     id: 7,
-                    question: "Miss Marvel n'a jamais été connue sous le nom de:",
+                    question: "Quelle est la plus puissante attaque de Pikachu ?",
                     options: [
-                        "Captain Marvel",
-                        "Rogue",
-                        "Warbird",
-                        "Binary"
+                        "Queue de fer",
+                        "Tonnerre",
+                        "9mm balle chemisée",
+                        "Électacle"
                     ],
                     answer: "Rogue",
                     heroId: 1010338
                 },
                 {
                     id: 8,
-                    question: "Quelle est l'héroïne proche du Docteur Strange créée en 1964 ?",
+                    question: "Quel ami de Sacha est le meilleur cuisinier/cuisinière ?",
                     options: [
-                        "Felina",
-                        "Clea",
-                        "Monica",
-                        "Elsa"
+                        "Pierre",
+                        "Ondine",
+                        "Mathias",
+                        "Toshiro"
                     ],
-                    answer: "Clea",
+                    answer: "Pierre",
                     heroId: 1009239
                 },
                 {
                     id: 9,
-                    question: "Étant enfant, Storm a tenté de ...",
+                    question: "Ou est ce que les dresseuse en bikini cachent leurs pokéballs ?",
                     options: [
-                        "Incendier un village avec un coup de foudre",
-                        "Devenir le chef d'un gang",
-                        "Voler la voiture du professeur Xavier",
-                        "Faire les poches du professeur Xavier"
+                        "Dans les anales du BAC de français",
+                        "Sur LeBonCoin",
+                        "Dans une BDD MySQL",
+                        "C'est un secret de femme"
                     ],
-                    answer: "Faire les poches du professeur Xavier",
+                    answer: "C'est un secret de femme",
                     heroId: 1009629
                 }
             ]
