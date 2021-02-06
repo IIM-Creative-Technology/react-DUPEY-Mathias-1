@@ -210,3 +210,22 @@ p {
   margin: 0 auto;
   cursor: pointer;
 }
+
+.selected {
+  background-color: var(--red-color);
+  color: var(--white-color);
+  text-transform: uppercase;
+}
+/* END SUBMIT BUTTON */
+
+/* Button disabled*/ 
+button:disabled,
+button[disabled],
+button:disabled:hover,
+button[disabled]:hover {
+  border: 1px solid var(--light-grey-color);
+  background-color: var(--light-grey-color);
+  color: var(--dark-grey-color);
+  opacity: 0.65;
+  cursor: not-allowed;
+}
