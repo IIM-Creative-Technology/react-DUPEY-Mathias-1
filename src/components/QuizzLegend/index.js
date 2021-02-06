@@ -3,7 +3,7 @@ export const QuizzLegend = [
         fournisseur: "React-Evaluation",
         sujet: "Vous saurez tout sur les pokémons",
         quizz: {
-            debutant: [
+            legende: [
                 {
                     id: 0,
                     question: "Lequel de ces pokémons est un starter ?",

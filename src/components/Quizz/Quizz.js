@@ -1,7 +1,7 @@
 import React, { Component, Fragment } from 'react'
 import Index from '../Levels/Index';
 import ProgressBar from '../ProgressBar'
-import {QuizzPokemon} from '../QuizzPokemon/'
+import {QuizzLegend} from '../QuizzLegend/'
 import { toast } from 'react-toastify'
 import 'react-toastify/dist/ReactToastify.css';
 import EndQuizz from '../EndQuizz'
@@ -28,7 +28,7 @@ class Quizz extends Component {
   storedDataRef = React.createRef();
 
   loadedQuestions = theme =>{
-   const legendeQuestion =QuizzPokemon[0].quizz[theme]; // Ceci c'est le tableau de question Légende
+   const legendeQuestion =QuizzLegend[0].quizz[theme]; // Ceci c'est le tableau de question Légende
    if(legendeQuestion.length >= this.state.MaxQuestions){
 
     this.storedDataRef.current = legendeQuestion;
