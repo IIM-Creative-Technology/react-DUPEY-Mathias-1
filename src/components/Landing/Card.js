@@ -1,5 +1,5 @@
 import React from 'react';
-import '../Landing/Card.css';
+import '../Landing/Card.sass';
 import CardItem from './CardItem';
 import Pokedex from './../../Asset/Pokedex.jpg'
 import Conseil from './../../Asset/Conseil.jpg'
@@ -39,7 +39,7 @@ function Cards() {
               label='Pop Culture'
               path='/Quizz'
             />
-           
+
           </ul>
         </div>
       </div>

@@ -1,5 +1,5 @@
 import React from 'react';
-import "./Nous.css";
+import "./Nous.sass";
 
 function Nous() {
     return (

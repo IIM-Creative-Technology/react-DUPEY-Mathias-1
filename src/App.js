@@ -5,7 +5,7 @@ import Navbar from './components/Header/Navbar'
 import PresentationQuizz from './components/Quizz/PresentationQuizz'
 import Nous from './components/Nous/Nous'
 import NoMatch from './components/404/NoMatch'
-import './App.css';
+import './App.sass';
 import { BrowserRouter as Router, Route, Switch, } from "react-router-dom"
 import Quizz from './components/Quizz/Quizz'
 
