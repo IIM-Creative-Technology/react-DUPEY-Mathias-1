@@ -31,6 +31,7 @@ class Quizz extends Component {
    const legendeQuestion =QuizzLegend[0].quizz[theme]; // Ceci c'est le tableau de question Légende
    if(legendeQuestion.length >= this.state.MaxQuestions){
 
+    //Le ref ici stock toutes les questions et réponses
     this.storedDataRef.current = legendeQuestion;
     
    const newArray = legendeQuestion.map( ({answer, ...keepRest}) => keepRest); //enleve les réponses
@@ -120,13 +121,20 @@ class Quizz extends Component {
         btnDisabled: false,
       })
   }
-/**mathias */
+
+  getPercentage = (MaxQuest, OurScore) => (OurScore/ MaxQuest) * 100;   //taux de réussite
+
   EndQuizz = () => {
+
+    const gradePercent = this.getPercentage(this.state.MaxQuestions, this.state.score);
+
+
+
       this.setState({
         quizOver: true
       })
   }
-/**mathias */
+
  
 
 
@@ -144,7 +152,12 @@ class Quizz extends Component {
     })
 
   return  this.state.quizOver ? ( // si quizz Over retourne true alors on affiche end Quizz le récap des questions
-      <EndQuizz/>
+      <EndQuizz ref={ this.storedDataRef}
+      themeNames = {this.state.themeNames}
+      score={this.state.score}
+      MaxQuestions={this.state.MaxQuestions}
+      percent={this.state.percent}
+      />
     )
     :
     (

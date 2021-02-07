@@ -1,5 +1,6 @@
 import React, { Fragment } from 'react';
 
+//Composant de type fonction 
 const ProgressBar = ({idQuestion, MaxQuestions}) => {
 
   const getWidth = (totalQuestion, questionId) =>{
@@ -17,10 +18,10 @@ const ProgressBar = ({idQuestion, MaxQuestions}) => {
        <div className="progressPercent">{`Progression : ${progress}%`}</div>
        </div>
        <div className="progressBar">
-        <div className="progressBarChange" style={{width:'10%'}}></div>
+        <div className="progressBarChange" style={{width:`${progress}%`}}></div>
        </div>
     
     </Fragment>
   );
 }
-export default ProgressBar
+export default React.memo(ProgressBar)

@@ -229,3 +229,50 @@ button[disabled]:hover {
   opacity: 0.65;
   cursor: not-allowed;
 }
+/* QUIZOVER */
+.stepsBtnContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 10px;
+  flex-wrap: wrap;
+}
+
+.successMsg {
+  color: var(--light-green-color);
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.success {
+  background-color: transparent;
+  border: 2px solid var(--light-green-color);
+  color: var(--light-green-color);
+  flex: 0 1 250px;
+}
+.success:hover {
+  background-color: var(--light-green-color);
+  color: var(--white-color);
+}
+.answerContainer {
+  overflow-x: "auto";
+}
+
+.answers {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.answers td,
+.answers th {
+  border: 1px solid var(--light-grey-color);
+  padding: 15px;
+}
+
+.answers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: var(--red-color);
+  color: var(--white-color);
+  text-transform: uppercase;
+}
