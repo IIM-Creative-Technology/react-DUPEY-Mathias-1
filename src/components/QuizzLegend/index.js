@@ -14,7 +14,6 @@ export const QuizzLegend = [
                         "Tiplouf"
                     ],
                     answer: "Tiplouf",
-                    heroId: 1009362
                 },
                 {
                     id: 1,
@@ -26,7 +25,6 @@ export const QuizzLegend = [
                         "Plante"
                     ],
                     answer: "Vol",
-                    heroId: 1009718
                 },
                 {
                     id: 2,
@@ -38,7 +36,6 @@ export const QuizzLegend = [
                         "Bourg Palette"
                     ],
                     answer: "Bourg Palette",
-                    heroId: 1009610
                 },
                 {
                     id: 3,
@@ -50,7 +47,6 @@ export const QuizzLegend = [
                         "Ronflex"
                     ],
                     answer: "Death",
-                    heroId: 1009718
                 },
                 {
                     id: 4,
@@ -62,7 +58,6 @@ export const QuizzLegend = [
                         "Dark Vador"
                     ],
                     answer: "Ondine",
-                    heroId: 1009664
                 },
                 {
                     id: 5,
@@ -74,7 +69,6 @@ export const QuizzLegend = [
                         "Le bleu"
                     ],
                     answer: "Le rose",
-                    heroId: 1009351
                 },
                 {
                     id: 6,
@@ -86,7 +80,6 @@ export const QuizzLegend = [
                         "Pingoléon"
                     ],
                     answer: "Pingoléon",
-                    heroId: 1009662
                 },
                 {
                     id: 7,
@@ -98,7 +91,6 @@ export const QuizzLegend = [
                         "Psy"
                     ],
                     answer: "Électrique",
-                    heroId: 1009368
                 },
                 {
                     id: 8,
@@ -110,7 +102,6 @@ export const QuizzLegend = [
                         "D'autres pokémons"
                     ],
                     answer: "Des croquettes",
-                    heroId: 1009220
                 },
                 {
                     id: 9,
@@ -122,7 +113,6 @@ export const QuizzLegend = [
                         69
                     ],
                     answer: 3,
-                    heroId: 1009662
                 }
             ],
             "confirme": [
@@ -136,7 +126,6 @@ export const QuizzLegend = [
                         "Un vote"
                     ],
                     answer: "Un K.O",
-                    heroId: 1009718
                 },
                 {
                     id: 1,
@@ -148,7 +137,6 @@ export const QuizzLegend = [
                         "Arceus"
                     ],
                     answer: "Arceus",
-                    heroId: 1009466
                 },
                 {
                     id: 2,
@@ -160,7 +148,6 @@ export const QuizzLegend = [
                         "Pichu"
                     ],
                     answer: "Mew",
-                    heroId: 1009368
                 },
                 {
                     id: 3,
@@ -172,7 +159,6 @@ export const QuizzLegend = [
                         "Les Avengers"
                     ],
                     answer: "Rocket",
-                    heroId: 1014985
                 },
                 {
                     id: 4,
@@ -184,7 +170,6 @@ export const QuizzLegend = [
                         "Lance roquette RPG-7 v2 chargée avec tête creuseBall"
                     ],
                     answer: "Lance roquette RPG-7 v2 chargée avec tête creuseBall",
-                    heroId: 1009318
                 },
                 {
                     id: 5,
@@ -196,7 +181,6 @@ export const QuizzLegend = [
                         "Badge Insecte"
                     ],
                     answer: "Cartouche de Marboro Light Red",
-                    heroId: 1009526
                 },
                 {
                     id: 6,
@@ -208,7 +192,6 @@ export const QuizzLegend = [
                         "Darkrai"
                     ],
                     answer: "MewTwo",
-                    heroId: 1009262
                 },
                 {
                     id: 7,
@@ -220,7 +203,6 @@ export const QuizzLegend = [
                         "Rattatta"
                     ],
                     answer: "Stari",
-                    heroId: 1010952
                 },
                 {
                     id: 8,
@@ -232,7 +214,6 @@ export const QuizzLegend = [
                         "Mew"
                     ],
                     answer: "Mew",
-                    heroId: 1009303
                 },
                 {
                     id: 9,
@@ -244,7 +225,6 @@ export const QuizzLegend = [
                         "Une arme"
                     ],
                     answer: "Une arme",
-                    heroId: 1009281
                 }
             ],
             "expert": [
@@ -258,7 +238,6 @@ export const QuizzLegend = [
                         "Magbi"
                     ],
                     answer: "Carchacrok",
-                    heroId: 1009608
                 },
                 {
                     id: 1,
@@ -270,7 +249,6 @@ export const QuizzLegend = [
                         "Coconfort"
                     ],
                     answer: "Wailord",
-                    heroId: 1009626
                 },
                 {
                     id: 2,
@@ -282,7 +260,6 @@ export const QuizzLegend = [
                         "Nekfeu"
                     ],
                     answer: "Tyrannocif",
-                    heroId: 1009610
                 },
                 {
                     id: 3,
@@ -294,7 +271,6 @@ export const QuizzLegend = [
                         "Raoul"
                     ],
                     answer: "Chen",
-                    heroId: 1009288
                 },
                 {
                     id: 4,
@@ -306,7 +282,6 @@ export const QuizzLegend = [
                         "Miaouss"
                     ],
                     answer: "Miaouss",
-                    heroId: 1009421
                 },
                 {
                     id: 5,
@@ -318,7 +293,6 @@ export const QuizzLegend = [
                         "Feu"
                     ],
                     answer: "Dragon",
-                    heroId: 1010788
                 },
                 {
                     id: 6,
@@ -330,7 +304,6 @@ export const QuizzLegend = [
                         "Typhlosion"
                     ],
                     answer: "Crefadet",
-                    heroId: 1011007
                 },
                 {
                     id: 7,
@@ -342,7 +315,6 @@ export const QuizzLegend = [
                         "Électacle"
                     ],
                     answer: "Rogue",
-                    heroId: 1010338
                 },
                 {
                     id: 8,
@@ -354,7 +326,6 @@ export const QuizzLegend = [
                         "Toshiro"
                     ],
                     answer: "Pierre",
-                    heroId: 1009239
                 },
                 {
                     id: 9,
@@ -366,7 +337,6 @@ export const QuizzLegend = [
                         "C'est un secret de femme"
                     ],
                     answer: "C'est un secret de femme",
-                    heroId: 1009629
                 }
             ]
         }
